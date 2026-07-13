@@ -1,17 +1,3 @@
-
-
-vip
-升级VIP
-畅享AI智能解题特权
-了解详情
-聊天历史记录
-
-暂无会话历史记录哦～
-
-打开大学搜题酱APP在 「我的」页
-点击「电脑端扫码」
-下载大学搜题酱App
-帮助
 <h1 align="center"><img src="./client/public/incudal_logo.webp" width="100" align="absmiddle" alt="Incudal logo"> Incudal</h1>
 
 <p align="center">基于 Incus 的 LXC / KVM NAT VPS 销售、交付与管理面板。</p>
